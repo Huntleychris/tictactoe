@@ -1,7 +1,8 @@
 import random
 
 #  Tic Tac Toe
-
+#attribution
+#https://codereview.stackexchange.com/questions/113840/tictactoe-where-the-computer-plays-random-moves-against-itself
 #  Board is laid out as:
 #  0, 1, 2,
 #  3, 4, 5,
@@ -88,12 +89,4 @@ while a < z:
                 if winner == 2:
                     bincrement()
                 if winner == 0:
-                    cincrement()
-                break
-            player = 3 - player
-
-    play()
-    a = a+1
-print(b)
-print(c)
-print(d)    
+                  

@@ -1,5 +1,7 @@
 import random
 
+#attribution
+#https://codereview.stackexchange.com/questions/113840/tictactoe-where-the-computer-plays-random-moves-against-itself
 #  Tic Tac Toe
 
 #  Board is laid out as:
